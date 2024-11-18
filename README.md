@@ -1,2 +1,3 @@
 # IWII
-Repositório para IW - II
+Eduardo de Ataíde Melo
+Guilherme Solon de Menezes
